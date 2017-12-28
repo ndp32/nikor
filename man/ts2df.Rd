@@ -2,7 +2,7 @@
 % Please edit documentation in R/ts2df.R
 \name{ts2df}
 \alias{ts2df}
-\title{words}
+\title{For those of us who loathe time-series objects.}
 \usage{
 ts2df(ts)
 }
