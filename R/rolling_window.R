@@ -1,5 +1,5 @@
 #' Make rolling windows
-#' @description Converts a tis object into a data frame.
+#' @description Computes rolling mean, median, min, max over a specified window, over a vector.
 #' @param x A numeric vector.
 #' @param l An integer specifying how far away the lower bound should be.
 #' @param u An integer specifying how far away the upper bound should be.
