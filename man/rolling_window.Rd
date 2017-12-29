@@ -17,5 +17,5 @@ rolling_window(x, l, u)
 A Data frame with the rolling window values of the mean, median, min, and max.
 }
 \description{
-Converts a tis object into a data frame.
+Computes rolling mean, median, min, max over a specified window, over a vector.
 }

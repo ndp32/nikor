@@ -8,7 +8,10 @@ Description: A place for my functions.
 Imports:
     tibble,
     magrittr,
-    lubridate
+    lubridate,
+    dplyr,
+    purrr,
+    ggplot2
 License: nope
 Encoding: UTF-8
 LazyData: true
