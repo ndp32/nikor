@@ -7,7 +7,7 @@ nikor$times <- .Primitive("*")
 nikor$over <- .Primitive("/")
 nikor$plus <- .Primitive("+")
 nikor$minus <- .Primitive("-")
-nikor$power <- .Primitive("^")
+nikor$raise <- .Primitive("^")
 nikor$int_div <- .Primitive("%/%")
 nikor$modulo <- .Primitive("%%")
 
